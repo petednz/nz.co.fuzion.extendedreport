@@ -14,11 +14,11 @@ These reports have been funded by various groups & if a given report doesn't wor
 | Extended Report - Relationships ||
 | Extended Report - Flexible contact report ||
 | Extended Report - Pivot data contact report ||
-| Extended Report - Editable Activities ||
+| Extended Report - Editable Activities |Ability to edit 'in row' core and custom Activity fields|
 | Extended Report - Activity Pivot Chart ||
 | Extended Report - Participants ||
 | Extended Report - Participant Line Items ||
-| Extended Report - Editable event Grid ||
+| Extended Report - Editable event Grid |Ability to edit 'in row' core and custom Event (not participant) fields|
 | Extended Report - Event Overview |Report gives a financial overview, with breakdown by paid and pending|
 | Extended Report - Event Pivot Chart ||
 | Extended Report - Bookkeeping with extra fields ||
